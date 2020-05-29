@@ -1,0 +1,19 @@
+{
+  "name": "snipp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "browsersync": "0.0.1-security",
+    "http-server": "0.12.3"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.7"
+  }
+}
