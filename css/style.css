@@ -8995,3 +8995,14 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+a {
+  color: var(--cyan);
+}
+a:hover {
+  color: var(--red);
+}
+
+.icon-heart::before {
+  color: red
+}
