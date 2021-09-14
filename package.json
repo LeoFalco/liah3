@@ -11,7 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "http-server": "13.0.1"
+    "http-server": "13.0.2"
   },
   "devDependencies": {
     "browser-sync": "2.27.5"
