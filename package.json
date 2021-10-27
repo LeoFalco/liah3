@@ -14,6 +14,6 @@
     "http-server": "13.0.2"
   },
   "devDependencies": {
-    "browser-sync": "2.27.5"
+    "browser-sync": "2.27.7"
   }
 }
